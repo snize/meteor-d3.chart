@@ -1,5 +1,5 @@
 {
-  "name": "meteor-d3.chart",
+  "name": "d3.chart",
   "description": "d3.chart repackaged for Meteor",
   "homepage": "https://github.com/snize/meteor-d3.chart",
   "author": "snize (http://bulblub.com)",
