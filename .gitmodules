@@ -1,0 +1,3 @@
+[submodule "lib/d3.chart"]
+	path = lib/d3.chart
+	url = git@github.com:misoproject/d3.chart.git
